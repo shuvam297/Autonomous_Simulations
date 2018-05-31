@@ -1,2 +1,2 @@
 # Autonomous_Simulations
-Simulation code for DRUSE project
+Simulation code for autonomous vehicle  project
